@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+img {
+  height: auto;
+  width: auto;
+  max-width: 150px;
+  max-height: 150px;
+}
+
+#header{
+  text-align: center;
+}
+
+#submitButton{
+  margin-top: 20px;
+}
+
+p {
+  font-family: "ariel";
+}
+
+#forms{
+  padding-bottom: 20px;
+}
+
+#indForm{
+  margin-top: 15px;
+  margin-left: 5px;
+}
+
+#addButton{
+  margin-top: 20px;
+}

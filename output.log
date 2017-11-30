@@ -1,0 +1,6 @@
+nohup: ignoring input
+[0mGET /admin.html [36m304 [0m4.971 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m3.557 ms - 418[0m
+[0mGET /javascripts/app.js [36m304 [0m0.741 ms - -[0m
+[0mGET /%7B%7Bproduct.picture%7D%7D [33m404 [0m301.568 ms - 1818[0m
+[0mGET /ordering [36m304 [0m17.971 ms - -[0m
